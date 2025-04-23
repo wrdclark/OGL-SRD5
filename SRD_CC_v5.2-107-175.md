@@ -1105,7 +1105,7 @@
 - Weird
 - Wish
 
-# Spell Descriptions
+# Spells
 
 #### Acid Arrow
 
