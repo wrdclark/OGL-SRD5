@@ -2265,7 +2265,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 **Components:** V, S, M (a bit of phosphorus)
 **Duration:** Concentration, up to 1 minute
 
-You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10foot radius.
+You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10-foot radius.
 
 As a Bonus Action, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range.
 
@@ -3468,7 +3468,7 @@ Uneaten berries disappear when the spell ends.
 **Components:** V, S, M (a bit of pork rind or butter)
 **Duration:** 1 minute
 
-Nonflammable grease covers the ground in a 10foot square centered on a point within range and turns it into Difficult Terrain for the duration.
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 
 When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the Prone condition. A creature that enters the area or ends its turn there must also succeed on that save or fall Prone.
 
@@ -4204,7 +4204,7 @@ Once you possess a creature's body, you control it. Your Hit Points, Hit Point D
 
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is Incapacitated.
 
-While possessing a body, you can take a Magic action to return from the host body to the container ifit is within 100 feet of you, returning the host creature'ssoul to its body. If the host body dies whileyou're in it, the creature dies, and you make a Charismasaving throw against your own spellcastingDC. On a success, you return to the container if it iswithin 100 feet of you. Otherwise, you die.
+While possessing a body, you can take a Magic action to return from the host body to the container ifit is within 100 feet of you, returning the host creature'ssoul to its body. If the host body dies whileyou're in it, the creature dies, and you make a Charismasaving throw against your own spellcasting DC. On a success, you return to the container if it iswithin 100 feet of you. Otherwise, you die.
 
 If the container is destroyed or the spell ends, your soul returns to your body. If your body is more than 100 feet away from you or if your body is dead, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.
 
@@ -4449,7 +4449,7 @@ If a creature takes a Study action to examine the sound or image, the creature c
 
 ***Sound.*** If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
-***Image.*** If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot Cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
+***Image.*** If you create an image of an object — such as a chair, muddy footprints, or a small chest — it must be no larger than a 5-foot Cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
 #### Mirage Arcane
 
@@ -5835,7 +5835,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 
 If the object is worn or carried by a creature, that creature must succeed on a Strength saving throw, or you pull the object away and move it up to 30 feet in any direction within the spell's range.
 
-You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool,
+You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 
 #### Telepathic Bond
 
@@ -6208,7 +6208,7 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 **Components:** V, S, M (a cube of granite)
 **Duration:** Concentration, up to 10 minutes
 
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-footby-20-foot panels that are only 3 inches thick.
+A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-foot by 20-foot panels that are only 3 inches thick.
 
 If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its Reaction to move up to its Speed so that it is no longer enclosed by the wall.
 
