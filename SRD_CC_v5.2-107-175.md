@@ -4693,7 +4693,7 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 
 *Level 3 Transmutation (Bard, Druid, Ranger)*
 
-**Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)
+**Casting Time:** Special (Action (Overgrowth) or 8 hours (Enrichment))
 **Range:** 150 feet
 **Components:** V, S
 **Duration:** Instantaneous
