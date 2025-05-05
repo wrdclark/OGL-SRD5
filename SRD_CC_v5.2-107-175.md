@@ -1266,7 +1266,7 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 - **Speed** 30 ft.
 
 |     |    | MOD | SAVE | |     |    | MOD | SAVE |
-|:---:|:--:|:----|:----:|-|:---:|:--:|:----|:----:|
+|:---:|:--:|:---:|:----:|-|:---:|:--:|:---:|:----:|
 | STR | 16 |  +3 |   +3 | | INT |  3 |  -4 |   -4 |
 | DEX | 10 |  +0 |   +0 | | WIS |  3 |  -4 |   -4 |
 | CON | 10 |  +0 |   +0 | | CHA |  1 |  -5 |   -5 |
@@ -2959,25 +2959,25 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
+---
 
 ##### Otherworldly Steed
 
 *Large Celestial, Fey, or Fiend (Your Choice), Neutral*
 
-**AC** 10 + 1 per spell level
-**HP** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level)
-**Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
+- **AC** 10 + 1 per spell level
+- **HP** 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level)
+- **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
 
 |     |    | MOD | SAVE | |     |    | MOD | SAVE |
-|:---:|:--:|:----|:----:|-|:---:|:--:|:----|:----:|
+|:---:|:--:|:---:|:----:|-|:---:|:--:|:---:|:----:|
 | STR | 18 |  +4 |   +4 | | INT |  6 |  -2 |   -2 |
 | DEX | 12 |  +1 |   +1 | | WIS | 12 |  +1 |   +1 |
 | CON | 14 |  +2 |   +2 | | CHA |  8 |  -1 |   -1 |
 
-**Senses** Passive Perception 11
-**Languages** Telepathy 1 mile (works only with you)
-**CR** None (XP 0; PB equals your Proficiency Bonus)
-
+- **Senses** Passive Perception 11
+- **Languages** Telepathy 1 mile (works only with you)
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ###### Traits
 
@@ -3356,23 +3356,25 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
+---
+
 ##### Giant Insect
 
 *Large Beast, Unaligned*
 
-**AC** 11 + the spell's level
-**HP** 30 + 10 for each spell level above 4
-**Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
+- **AC** 11 + the spell's level
+- **HP** 30 + 10 for each spell level above 4
+- **Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
 
 |     |    | MOD | SAVE | |     |    | MOD | SAVE |
-|:---:|:--:|:----|:----:|-|:---:|:--:|:----|:----:|
+|:---:|:--:|:---:|:----:|-|:---:|:--:|:---:|:----:|
 | STR | 16 |  +3 |   +3 | | INT |  3 |  -4 |   -4 |
 | DEX | 10 |  +0 |   +0 | | WIS |  3 |  -4 |   -4 |
 | CON | 10 |  +0 |   +0 | | CHA |  1 |  -5 |   -5 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ###### Traits
 
@@ -5727,23 +5729,23 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 *Large Dragon, Neutral*
 
-**AC** 14 + the spell's level
-**HP** 50 + 10 for each spell level above 5
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 14 + the spell's level
+- **HP** 50 + 10 for each spell level above 5
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |     |    | MOD | SAVE | |     |    | MOD | SAVE |
-|:---:|:--:|:----|:----:|-|:---:|:--:|:----|:----:|
+|:---:|:--:|:---:|:----:|-|:---:|:--:|:---:|:----:|
 | STR | 19 |  +4 |   +4 | | INT | 10 |  +0 |   +0 |
 | DEX | 14 |  +2 |   +2 | | WIS | 14 |  +2 |   +2 |
 | CON | 17 |  +3 |   +3 | | CHA | 14 |  +2 |   +2 |
 
-**Resistances** Acid, Cold, Fire, Lightning, Poison
-**Immunities** Charmed, Frightened, Poisoned
-**Senses** Blindsight 30 ft., Darkvision 60 ft.;
+- **Resistances** Acid, Cold, Fire, Lightning, Poison
+- **Immunities** Charmed, Frightened, Poisoned
+- **Senses** Blindsight 30 ft., Darkvision 60 ft.;
 
-**Passive Perception** 12
-**Languages** Draconic, understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Passive Perception** 12
+- **Languages** Draconic, understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ###### Traits
 
