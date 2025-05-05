@@ -1255,13 +1255,15 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 
 **Using a Higher-Level Spell Slot.** The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
 
+---
+
 ##### Animated Object
 
 *Huge or Smaller Construct, Unaligned*
 
-**AC** 15
-**HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
-**Speed** 30 ft.
+- **AC** 15
+- **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
+- **Speed** 30 ft.
 
 |     |    | MOD | SAVE | |     |    | MOD | SAVE |
 |:---:|:--:|:----|:----:|-|:---:|:--:|:----|:----:|
@@ -1269,10 +1271,10 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 | DEX | 10 |  +0 |   +0 | | WIS |  3 |  -4 |   -4 |
 | CON | 10 |  +0 |   +0 | | CHA |  1 |  -5 |   -5 |
 
-**Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Senses** Blindsight 30 ft.; Passive Perception 6
-**Languages** Understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses** Blindsight 30 ft.; Passive Perception 6
+- **Languages** Understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ###### Actions
 
