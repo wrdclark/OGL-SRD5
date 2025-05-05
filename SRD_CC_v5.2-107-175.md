@@ -2556,6 +2556,7 @@ The target takes an extra 2d8 Radiant damage from the attack. The damage increas
 You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a *Wish* spell.
 
 ##### Divine Word Effects
+
 | Hit Points | Effect |
 |:----------:|:-------|
 | 0-20 | The target dies. |
@@ -5724,6 +5725,8 @@ You call forth a Dragon spirit. It manifests in an unoccupied space that you can
 The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
+
+---
 
 ##### Draconic Spirit
 
