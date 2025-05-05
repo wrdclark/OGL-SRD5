@@ -1413,7 +1413,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn't need food or air, and doesn't age.
 
-A target's astral form resembles its body in almost every way, replicating its game statistics and possessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut — which happens only when an effect states that it does so — the target's body and astral form both die.
+A target's astral form resembles its body in almost every way, replicating its game statistics and possessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut - which happens only when an effect states that it does so - the target's body and astral form both die.
 
 A target's astral form can travel through the Astral Plane. The moment an astral form leaves that plane, the target's body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane.
 
@@ -2079,7 +2079,7 @@ Whenever the Poisoned target receives an effect that would end the Poisoned cond
 **Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)
 **Duration:** 10 days
 
-Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell — called the contingent spell — as part of casting *Contingency*, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a *Contingency* cast with *Water Breathing* might stipulate that *Water Breathing* comes into effect when you are engulfed in water or a similar liquid.
+Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell - called the contingent spell - as part of casting *Contingency*, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a *Contingency* cast with *Water Breathing* might stipulate that *Water Breathing* comes into effect when you are engulfed in water or a similar liquid.
 
 The contingent spell takes effect immediately after the trigger occurs for the first time, whether or not you want it to, and then *Contingency* ends.
 
@@ -2185,7 +2185,7 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 **Components:** V, S
 **Duration:** Instantaneous
 
-You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range — both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
+You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range - both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
 
 #### Create or Destroy Water
 
@@ -2442,7 +2442,7 @@ If you, the other creature, or both would arrive in a space occupied by a creatu
 **Components:** V, S
 **Duration:** 1 hour
 
-You make yourself — including your clothing, armor, weapons, and other belongings on your person —  look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
+You make yourself - including your clothing, armor, weapons, and other belongings on your person -  look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
 
@@ -2745,9 +2745,9 @@ For the duration, the spell enlarges or reduces a creature or an object you can 
 
 Everything that a targeted creature is wearing and carrying changes size with it. Any item it drops returns to normal size at once. A thrown weapon or piece of ammunition returns to normal size immediately after it hits or misses a target.
 
-***Enlarge.*** The target's size increases by one category — from Medium to Large, for example. The target also has Advantage on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit.
+***Enlarge.*** The target's size increases by one category - from Medium to Large, for example. The target also has Advantage on Strength checks and Strength saving throws. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit.
 
-***Reduce.*** The target's size decreases by one category — from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
+***Reduce.*** The target's size decreases by one category - from Medium to Small, for example. The target also has Disadvantage on Strength checks and Strength saving throws. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
 
 #### Ensnaring Strike
 
@@ -2851,7 +2851,7 @@ You convert raw materials into products of the same material. For example, you c
 
 Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot Cube or eight connected 5-foot Cubes) given a sufficient quantity of material. If you're working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a 5-foot Cube). The quality of any fabricated objects is based on the quality of the raw materials.
 
-Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill — such as weapons and armor — unless you have proficiency with the type of Artisan's Tools used to craft such objects.
+Creatures and magic items can't be created by this spell. You also can't use it to create items that require a high degree of skill - such as weapons and armor - unless you have proficiency with the type of Artisan's Tools used to craft such objects.
 
 #### Faerie Fire
 
@@ -2952,7 +2952,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the Otherworldly Steed stat block. If you already have a steed from this spell, the steed is replaced by the new one.
 
-The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever you cast the spell, choose the steed's creature type — Celestial, Fey, or Fiend — which determines certain traits in the stat block.
+The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever you cast the spell, choose the steed's creature type - Celestial, Fey, or Fiend - which determines certain traits in the stat block.
 
 ***Combat.*** The steed is an ally to you and your allies. In combat, it shares your Initiative count, and it functions as a controlled mount while you ride it (as defined in the rules on mounted combat). If you have the Incapacitated condition, the steed takes its turn immediately after yours and acts independently, focusing on protecting you.
 
@@ -3002,7 +3002,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 
 **Casting Time:** 1 minute
 **Range:** Self
-**Components:** V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP)
+**Components:** V, S, M (a set of divination tools-such as cards or runes-worth 100+ GP)
 **Duration:** Concentration, up to 1 day
 
 You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon's lair").
@@ -4111,7 +4111,7 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature's location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 
-The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close — within 30 feet — at least once. If the creature you described or named is in a different form, such as under the effects of a *Flesh to Stone* or *Polymorph* spell, this spell doesn't locate the creature.
+The spell can locate a specific creature known to you or the nearest creature of a specific kind (such as a human or a unicorn) if you have seen such a creature up close - within 30 feet - at least once. If the creature you described or named is in a different form, such as under the effects of a *Flesh to Stone* or *Polymorph* spell, this spell doesn't locate the creature.
 
 This spell can't locate a creature if any thickness of lead blocks a direct path between you and the creature.
 
@@ -4126,7 +4126,7 @@ This spell can't locate a creature if any thickness of lead blocks a direct path
 
 Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
-The spell can locate a specific object known to you if you have seen it up close — within 30 feet — at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
+The spell can locate a specific object known to you if you have seen it up close - within 30 feet - at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
 
 This spell can't locate an object if any thickness of lead blocks a direct path between you and the object.
 
@@ -4237,7 +4237,7 @@ You create three glowing darts of magical force. Each dart strikes a creature of
 **Components:** V, S, M (jade dust worth 10+ GP, which the spell consumes)
 **Duration:** Until dispelled
 
-You implant a message within an object in range — a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
+You implant a message within an object in range - a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
 
 When that trigger occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there, so the words appear to come from the object's mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.
 
@@ -4340,7 +4340,7 @@ Up to six creatures of your choice that you can see within range regain Hit Poin
 **Components:** V, M (a snake's tongue)
 **Duration:** 24 hours
 
-You suggest a course of activity — described in no more than 25 words — to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
+You suggest a course of activity - described in no more than 25 words - to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
 
 Each target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. Each Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
 
@@ -4424,7 +4424,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 **Components:** V, S
 **Duration:** 24 hours
 
-Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell — not even *Wish* — can gather information about the target, observe it remotely, or control its mind.
+Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell - not even *Wish* - can gather information about the target, observe it remotely, or control its mind.
 
 #### Mind Spike
 
@@ -4454,7 +4454,7 @@ If a creature takes a Study action to examine the sound or image, the creature c
 
 ***Sound.*** If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
-***Image.*** If you create an image of an object — such as a chair, muddy footprints, or a small chest — it must be no larger than a 5-foot Cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
+***Image.*** If you create an image of an object - such as a chair, muddy footprints, or a small chest - it must be no larger than a 5-foot Cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 
 #### Mirage Arcane
 
@@ -4843,7 +4843,7 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 **Components:** V, S
 **Duration:** 10 minutes
 
-A shimmering, multicolored plane of light forms a vertical opaque wall — up to 90 feet long, 30 feet high, and 1 inch thick — centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.
+A shimmering, multicolored plane of light forms a vertical opaque wall - up to 90 feet long, 30 feet high, and 1 inch thick - centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.
 
 The wall sheds Bright Light within 100 feet and Dim Light for an additional 100 feet. You and creatures you designate when you cast the spell can pass through and be near the wall without harm. If another creature that can see the wall moves within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or have the Blinded condition for 1 minute.
 
@@ -4993,7 +4993,7 @@ With a touch, you revive a dead creature if it has been dead no longer than 10 d
 
 The creature returns to life with 1 Hit Point. This spell also neutralizes any poisons that affected the creature at the time of death.
 
-This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival — its head, for instance — the spell automatically fails.
+This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival - its head, for instance - the spell automatically fails.
 
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
@@ -5097,7 +5097,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 A shimmering sphere encloses a Large or smaller creature or object within range. An unwilling creature must succeed on a Dexterity saving throw or be enclosed for the duration.
 
-Nothing — not physical objects, energy, or other spell effects — can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
+Nothing - not physical objects, energy, or other spell effects - can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's Speed. Similarly, the globe can be picked up and moved by other creatures.
 
@@ -5707,7 +5707,7 @@ At the start of each of your later turns, the storm produces different effects, 
 **Components:** V, M (a drop of honey)
 **Duration:** Concentration, up to 8 hours
 
-You suggest a course of activity — described in no more than 25 words — to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, "Fetch the key to the cult's treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don't return."
+You suggest a course of activity - described in no more than 25 words - to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, "Fetch the key to the cult's treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don't return."
 
 The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 
@@ -5874,12 +5874,12 @@ The destination you choose must be known to you, and it must be on the same plan
 
 | Familiarity | Mishap | Similar Area | Off Target | On Target |
 |:------------|:------:|:------------:|:----------:|:---------:|
-| Permanent circle | — | — | — | 01–00 |
-| Linked object | — | — | — | 01–00 |
+| Permanent circle | - | - | - | 01–00 |
+| Linked object | - | - | - | 01–00 |
 | Very familiar | 01–05 | 06–13 | 14–24 | 25–00 |
 | Seen casually | 01–33 | 34–43 | 44–53 | 54–00 |
 | Viewed once or described | 01–43 | 44–53 | 54–73 | 74–00 |
-| False destination | 01–50 | 51–00 | — | — |
+| False destination | 01–50 | 51–00 | - | - |
 
 ***Familiarity.*** Here are the meanings of the terms in the table's Familiarity column:
 
@@ -5909,7 +5909,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
-Many major temples, guildhalls, and other important places have permanent teleportation circles. Each circle includes a unique sigil sequence — a string of runes arranged in a particular pattern.
+Many major temples, guildhalls, and other important places have permanent teleportation circles. Each circle includes a unique sigil sequence - a string of runes arranged in a particular pattern.
 
 When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You might learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
 
@@ -6277,7 +6277,7 @@ This spell grants up to ten willing creatures of your choice within range the ab
 **Components:** V, S, M (a piece of cork)
 **Duration:** 1 hour
 
-This spell grants the ability to move across any liquid surface — such as water, acid, mud, snow, quicksand, or lava — as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
+This spell grants the ability to move across any liquid surface - such as water, acid, mud, snow, quicksand, or lava - as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
 
 An affected target must take a Bonus Action to pass from the liquid's surface into the liquid itself and vice versa, but if the target falls into the liquid, the target passes through the surface into the liquid below.
 
